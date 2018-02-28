@@ -3,3 +3,10 @@
 # editors temp files
 .*.sw[pqrst]
 *~
+
+
+
+# secrets
+
+conf/*.conf
+app/public/js/conf.js
