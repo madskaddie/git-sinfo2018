@@ -415,6 +415,20 @@ template: inverse
 
 ---
 
+## Quando trabalho grupo e para alem do que foi exposto, o GIT:
+.right-column[
+
+- serve-me como uma ferramenta de comunicação do conteúdo:
+
+  - posso publicar
+
+  - aceitar conteúdo
+
+- dá-me segurança (criptográfica) sobre o conteúdo
+
+
+]
+
 
 
 
