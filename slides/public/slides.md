@@ -86,10 +86,8 @@ template: inverse
 ## Quando trabalho sózinho...
 
 ---
-.left-column[
-  ## Como
-]
 
+## Quando trabalho sózinho, o GIT:
 .right-column[
 
 - ajuda-me a voltar para trás no tempo (uuups, &#x1F4A9;)
@@ -98,9 +96,10 @@ template: inverse
 
 - noção do tempo que gastei (quando e como)
 
+- experimentar
+
 - replicar o conteúdo em múltiplas localizações (backup _ad-hoc_)
 
-- experimentar
 
 ]
 
@@ -326,7 +325,7 @@ slides
 ---
 
 .left-column[
-### branching
+### Branching
 ]
 
 .right-column[
