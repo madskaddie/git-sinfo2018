@@ -3,7 +3,7 @@ layout: true
 class: center, middle, inverse
 ---
 
-# O que o GIT pode fazer por ti
+# O que o GIT pode fazer por ti ACABOU
 
 ---
 
