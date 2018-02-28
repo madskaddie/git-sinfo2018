@@ -228,6 +228,12 @@ $ gitk
 
 .right-column[
 
+
+- Um _commit_ representa todo um snapshot de todo o conteúdo
+- É endereçado pela sua assinatura criptográfica
+- Pode ser visto como uma _block chain_
+
+
 ```bash
 $ git add "$filename" # git add???
 $ git commit -m "some message"
