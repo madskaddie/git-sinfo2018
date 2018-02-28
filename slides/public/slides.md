@@ -408,6 +408,13 @@ To github.com:madskaddie/git-sinfo2018.git
 
 
 
+---
+template: inverse
+
+## Quando trabalho em grupo...
+
+---
+
 
 
 
